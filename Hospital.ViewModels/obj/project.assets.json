@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\My Projects\\Hospital\\Hospital.ViewModels\\Hospital.ViewModels.csproj",
+      "projectUniqueName": "D:\\My Projects\\Hospital-Management-Software\\Hospital.ViewModels\\Hospital.ViewModels.csproj",
       "projectName": "Hospital.ViewModels",
-      "projectPath": "D:\\My Projects\\Hospital\\Hospital.ViewModels\\Hospital.ViewModels.csproj",
+      "projectPath": "D:\\My Projects\\Hospital-Management-Software\\Hospital.ViewModels\\Hospital.ViewModels.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\My Projects\\Hospital\\Hospital.ViewModels\\obj\\",
+      "outputPath": "D:\\My Projects\\Hospital-Management-Software\\Hospital.ViewModels\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

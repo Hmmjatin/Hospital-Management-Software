@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I4y8/NFglVAzW/yiWhA7HGnp5I8W06V2pzskGK0/YwC/mWIJFuBiTjeGY8DINtRON/se7S12UBSa4VRTAPK+Qw==",
+  "dgSpecHash": "2px/ubskvCh4lBVCHmp3XQCpWhqrLh/5Ta630OmiKHWLXnuFucG3k18zDZrxqYqUfSksksPVj5aUbOQJr0xNKA==",
   "success": true,
-  "projectFilePath": "D:\\My Projects\\Hospital\\Hospital.ViewModels\\Hospital.ViewModels.csproj",
+  "projectFilePath": "D:\\My Projects\\Hospital-Management-Software\\Hospital.ViewModels\\Hospital.ViewModels.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

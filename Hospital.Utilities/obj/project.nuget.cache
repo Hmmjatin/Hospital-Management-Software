@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EWHya4nTfW6YB86vcM/lq9QE8A8MWImyAk/89E1msBy5zbiWAt+vTDT9Z7TUxAsM6syssk7jrumZy6WMKKQzpg==",
+  "dgSpecHash": "HLRXsJHVdDROVTHashHmGw1dUY7HdZZ1aybn+QjGg4vX0VY4ZOuB04CtKLxYHpCywOEVgVmKCXqrnud8/ATCkg==",
   "success": true,
-  "projectFilePath": "D:\\My Projects\\Hospital\\Hospital.Utilities\\Hospital.Utilities.csproj",
+  "projectFilePath": "D:\\My Projects\\Hospital-Management-Software\\Hospital.Utilities\\Hospital.Utilities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
