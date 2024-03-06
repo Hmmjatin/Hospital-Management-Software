@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\My Projects\\Hospital-Management-Software\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2B4D1796-256C-496B-8502-538E9F878B75}|Hospital.Web\\Hospital.Web.csproj|d:\\my projects\\hospital-management-software\\hospital.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B4D1796-256C-496B-8502-538E9F878B75}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{30B162CA-FF1C-4AFD-9A16-FD66FEFA7AF9}|Hospital.Repositories\\Hospital.Repositories.csproj|d:\\my projects\\hospital-management-software\\hospital.repositories\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30B162CA-FF1C-4AFD-9A16-FD66FEFA7AF9}|Hospital.Repositories\\Hospital.Repositories.csproj|solutionrelative:hospital.repositories\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,19 +23,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\My Projects\\Hospital-Management-Software\\Hospital.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Hospital.Web\\appsettings.json",
+              "ToolTip": "D:\\My Projects\\Hospital-Management-Software\\Hospital.Web\\appsettings.json",
+              "RelativeToolTip": "Hospital.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-06T16:54:01.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ApplicationDBContext.cs",
               "DocumentMoniker": "D:\\My Projects\\Hospital-Management-Software\\Hospital.Repositories\\ApplicationDBContext.cs",
               "RelativeDocumentMoniker": "Hospital.Repositories\\ApplicationDBContext.cs",
               "ToolTip": "D:\\My Projects\\Hospital-Management-Software\\Hospital.Repositories\\ApplicationDBContext.cs",
               "RelativeToolTip": "Hospital.Repositories\\ApplicationDBContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-06T16:19:23.439Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
