@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\My Projects\\Hospital-Management-Software\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B4D1796-256C-496B-8502-538E9F878B75}|Hospital.Web\\Hospital.Web.csproj|d:\\my projects\\hospital-management-software\\hospital.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2B4D1796-256C-496B-8502-538E9F878B75}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{30B162CA-FF1C-4AFD-9A16-FD66FEFA7AF9}|Hospital.Repositories\\Hospital.Repositories.csproj|d:\\my projects\\hospital-management-software\\hospital.repositories\\implementation\\genricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B162CA-FF1C-4AFD-9A16-FD66FEFA7AF9}|Hospital.Repositories\\Hospital.Repositories.csproj|solutionrelative:hospital.repositories\\implementation\\genricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30B162CA-FF1C-4AFD-9A16-FD66FEFA7AF9}|Hospital.Repositories\\Hospital.Repositories.csproj|d:\\my projects\\hospital-management-software\\hospital.repositories\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30B162CA-FF1C-4AFD-9A16-FD66FEFA7AF9}|Hospital.Repositories\\Hospital.Repositories.csproj|solutionrelative:hospital.repositories\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30B162CA-FF1C-4AFD-9A16-FD66FEFA7AF9}|Hospital.Repositories\\Hospital.Repositories.csproj|d:\\my projects\\hospital-management-software\\hospital.repositories\\interfaces\\igenricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B162CA-FF1C-4AFD-9A16-FD66FEFA7AF9}|Hospital.Repositories\\Hospital.Repositories.csproj|solutionrelative:hospital.repositories\\interfaces\\igenricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\My Projects\\Hospital-Management-Software\\Hospital.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "Hospital.Web\\appsettings.json",
-              "ToolTip": "D:\\My Projects\\Hospital-Management-Software\\Hospital.Web\\appsettings.json",
-              "RelativeToolTip": "Hospital.Web\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-06T16:54:01.764Z",
+              "DocumentIndex": 1,
+              "Title": "IGenricRepository.cs",
+              "DocumentMoniker": "D:\\My Projects\\Hospital-Management-Software\\Hospital.Repositories\\Interfaces\\IGenricRepository.cs",
+              "RelativeDocumentMoniker": "Hospital.Repositories\\Interfaces\\IGenricRepository.cs",
+              "ToolTip": "D:\\My Projects\\Hospital-Management-Software\\Hospital.Repositories\\Interfaces\\IGenricRepository.cs",
+              "RelativeToolTip": "Hospital.Repositories\\Interfaces\\IGenricRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T18:14:17.062Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationDBContext.cs",
-              "DocumentMoniker": "D:\\My Projects\\Hospital-Management-Software\\Hospital.Repositories\\ApplicationDBContext.cs",
-              "RelativeDocumentMoniker": "Hospital.Repositories\\ApplicationDBContext.cs",
-              "ToolTip": "D:\\My Projects\\Hospital-Management-Software\\Hospital.Repositories\\ApplicationDBContext.cs",
-              "RelativeToolTip": "Hospital.Repositories\\ApplicationDBContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "GenricRepository.cs",
+              "DocumentMoniker": "D:\\My Projects\\Hospital-Management-Software\\Hospital.Repositories\\Implementation\\GenricRepository.cs",
+              "RelativeDocumentMoniker": "Hospital.Repositories\\Implementation\\GenricRepository.cs",
+              "ToolTip": "D:\\My Projects\\Hospital-Management-Software\\Hospital.Repositories\\Implementation\\GenricRepository.cs",
+              "RelativeToolTip": "Hospital.Repositories\\Implementation\\GenricRepository.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowEkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T16:19:23.439Z",
+              "WhenOpened": "2024-03-06T18:03:20.761Z",
               "EditorCaption": ""
             }
           ]
